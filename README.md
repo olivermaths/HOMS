@@ -14,9 +14,7 @@ Upon detecting a disturbance in the sensors, the arduino triggers an alert signa
 
 
 ## First View
-
-<img src="" width="200" />
-<img src="" width="200" />
-<img src="" width="200" />
-
+<div padding="100px">
+<img src="https://github.com/OliverXs/HOMS/blob/main/assets/screenshots/Screenshot_1623286314.png" width="30%"/>  <img src="https://github.com/OliverXs/HOMS/blob/main/assets/screenshots/Screenshot_1623286308.png" width="30%" />  <img src="https://github.com/OliverXs/HOMS/blob/main/assets/screenshots/Screenshot_1623286610.png" width="30%"  />
+</div>
 
